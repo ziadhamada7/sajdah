@@ -118,14 +118,25 @@ significant progress over months and years.
 
 ------------------------------------------------------------------------
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-  -----------------------------------------------------------------------------------------------------------------
-  Today Screen                      Progress Screen                         Settings
-  --------------------------------- --------------------------------------- ---------------------------------------
-  ![Today](screenshots/today.jpg)   ![Progress](screenshots/progress.jpg)   ![Settings](screenshots/settings.jpg)
+<p align="center">
+  <img src="screenshots/today.jpg" width="250">
+</p>
 
-  -----------------------------------------------------------------------------------------------------------------
+<p align="center"><b>Today Screen</b></p>
+
+<p align="center">
+  <img src="screenshots/progress.jpg" width="250">
+</p>
+
+<p align="center"><b>Progress Screen</b></p>
+
+<p align="center">
+  <img src="screenshots/settings.jpg" width="250">
+</p>
+
+<p align="center"><b>Settings</b></p>
 
 ------------------------------------------------------------------------
 
