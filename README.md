@@ -121,22 +121,16 @@ significant progress over months and years.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/today.jpg" width="250">
+  <img src="screenshots/today.jpg" width="260"/>
+  <img src="screenshots/progress.jpg" width="260"/>
+  <img src="screenshots/settings.jpg" width="260"/>
 </p>
-
-<p align="center"><b>Today Screen</b></p>
 
 <p align="center">
-  <img src="screenshots/progress.jpg" width="250">
+  <b>Today</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Progress</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Settings</b>
 </p>
-
-<p align="center"><b>Progress Screen</b></p>
-
-<p align="center">
-  <img src="screenshots/settings.jpg" width="250">
-</p>
-
-<p align="center"><b>Settings</b></p>
 
 ------------------------------------------------------------------------
 
