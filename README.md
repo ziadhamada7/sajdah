@@ -123,11 +123,9 @@ significant progress over months and years.
   -----------------------------------------------------------------------------------------------------------------
   Today Screen                      Progress Screen                         Settings
   --------------------------------- --------------------------------------- ---------------------------------------
-  ![Today](screenshots/today.png)   ![Progress](screenshots/progress.png)   ![Settings](screenshots/settings.png)
+  ![Today](screenshots/today.jpg)   ![Progress](screenshots/progress.jpg)   ![Settings](screenshots/settings.jpg)
 
   -----------------------------------------------------------------------------------------------------------------
-
-*(Replace with actual screenshots in `/screenshots` folder.)*
 
 ------------------------------------------------------------------------
 
